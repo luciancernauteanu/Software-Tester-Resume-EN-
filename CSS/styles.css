@@ -1,0 +1,155 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Changa', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+h2 {
+  /* font-family: 'Taviraj', sans-serif; */
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  font-weight: bolder;
+  font-family: 'Taviraj', serif;
+  color: #11999E;
+}
+
+p {
+  color: #40514E;
+  font-size: 16px;
+}
+
+.top-container {
+  position: relative;
+  background-color: #DEEDF0;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding-top: 60px;
+  background-color: #f5fdff;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #66BFBF;
+  padding: 40px 0 40px 0;
+}
+
+.footer-link {
+  display: inline-block;
+  width: 100px;
+}
+
+.software {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 1100px;
+  top: 80px;
+}
+
+.cloud2 {
+  bottom: 300px;
+  left: 600px;
+  position: absolute;
+}
+
+.profile {
+  position: relative;
+  margin: auto;
+  width: 53%;
+}
+
+.profile-image {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.bio {
+  font-size: 18px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.paper-skill {
+  padding-right: 50px;
+  width: 23%;
+  float: left;
+}
+
+.automation-skill {
+  float: right;
+  width: 23%;
+  padding-left: 50px;
+}
+
+.footer-link {
+  color: #0A767A;
+}
+
+.signature {
+  color: #EAF6F6;
+}
+.dots{
+  text-align: center;
+  font-size: 50px;
+  color: #c1d4d4;
+}
+
+.contact_me_button {
+   background: #11999E;
+   background-image: -webkit-linear-gradient(top, #11999E, #66BFBB);
+   background-image: -moz-linear-gradient(top, #11999E, #66BFBB);
+   background-image: -ms-linear-gradient(top, #11999E, #66BFBB);
+   background-image: -o-linear-gradient(top, #11999E, #66BFBB);
+   background-image: -webkit-gradient(to bottom, #11999E, #66BFBB);
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+   border-radius: 14px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 18px;
+   font-weight: 400;
+   padding: 13px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   margin-bottom: 40px;
+}
+
+.contact_me_button:hover {
+   border: solid #11999E 0;
+   background: #66BFBB;
+   background-image: -webkit-linear-gradient(top, #66BFBB, #11999E);
+   background-image: -moz-linear-gradient(top, #66BFBB, #11999E);
+   background-image: -ms-linear-gradient(top, #66BFBB, #11999E);
+   background-image: -o-linear-gradient(top, #66BFBB, #11999E);
+   background-image: -webkit-gradient(to bottom, #66BFBB, #11999E);
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+   border-radius: 14px;
+   text-decoration: none;
+   position: relative;
+   margin-bottom: 40px;
+}
