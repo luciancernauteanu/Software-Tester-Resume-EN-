@@ -92,13 +92,13 @@ p {
 
 .paper-skill {
   padding-right: 50px;
-  width: 23%;
+  width: 25%;
   float: left;
 }
 
 .automation-skill {
   float: right;
-  width: 23%;
+  width: 30%;
   padding-left: 50px;
 }
 
