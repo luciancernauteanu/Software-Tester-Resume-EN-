@@ -47,11 +47,6 @@ p {
   padding: 30px 0;
 }
 
-.footer-link {
-  display: inline-block;
-  width: 100px;
-}
-
 .software {
   text-decoration: underline;
 }
@@ -104,6 +99,9 @@ p {
 
 .footer-link {
   color: #0A767A;
+  display: inline-block;
+  width: 100px;
+  padding:10px 0;
 }
 
 .signature {
